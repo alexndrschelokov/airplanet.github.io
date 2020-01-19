@@ -1,0 +1,36 @@
+.banner {
+  position: relative;
+  height: 228px;
+  margin-bottom: 40px;
+}
+
+.banner__block {
+  position: absolute  ;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  background: url(../../img/decor/sky.jpg) left top repeat-x;
+}
+
+.banner__airplane-text {
+  position: absolute;
+  width: 749px;
+  height: 99px;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 100px;
+
+  background: url(../../img/decor/airplane-text.png) center center no-repeat;
+}
+
+.banner__airplane-obj {
+  position: absolute;
+  width: 619px;
+  height: 299px;
+  top: -37px;
+  left: 409px;
+
+  background: url(../../img/decor/airplane-obj.png) center center no-repeat;
+}

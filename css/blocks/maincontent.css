@@ -1,0 +1,13 @@
+.container--maincontent {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.sidebar {
+  width: 15.95%;
+}
+
+.page {
+  width: 83.02%;
+}

@@ -1,0 +1,26 @@
+.container--footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer {
+  padding: 20px 0;
+
+  background: #4b73b5;
+}
+
+.footer__text {
+  width: 293px;
+}
+
+.footer__text p {
+  font-family: roboto_light;
+  color: #fff;
+}
+
+.footer__text a {
+  font-family: roboto_bold;
+  color: #fff;
+  text-decoration: underline;
+}

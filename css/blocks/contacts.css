@@ -1,0 +1,11 @@
+.contacts {
+  text-align: right;
+}
+
+.contacts__tel {
+  margin-bottom: 3px;
+
+  font-family: roboto_bold;
+  font-size: 21px;
+  color: #fff;
+}

@@ -1,0 +1,22 @@
+.last-news {
+  margin-bottom: 45px;
+}
+
+.last-news__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  padding-bottom: 30px;
+  margin-top: 30px;
+  border-bottom: 2px solid #f5f5f5;
+}
+
+.last-news__item:first-child {
+  margin-bottom: 0;
+}
+
+.last-news__item:last-child {
+  padding-bottom: 0;
+  border: none;
+}

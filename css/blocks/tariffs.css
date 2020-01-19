@@ -1,0 +1,21 @@
+.tariffs {
+  margin-bottom: 45px;
+}
+
+.tariffs__list {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.tariffs__item {
+  flex-basis: 246px;
+  border: 1px solid transparent;
+
+  transition: border-color .3s;
+}
+
+.tariffs__item--bordered,
+.tariffs__item:hover  {
+  border-color: #e8e9ed;
+}
