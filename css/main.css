@@ -19,3 +19,9 @@
 @import url('./blocks/pagination.css');
 @import url('./blocks/footer.css');
 @import url('./blocks/socials.css');
+@import url('./blocks/breadcrumbs.css');
+@import url('./blocks/feed.css');
+@import url('./blocks/comment.css');
+@import url('./blocks/separator.css');
+@import url('./blocks/form-section.css');
+@import url('./blocks/form.css');

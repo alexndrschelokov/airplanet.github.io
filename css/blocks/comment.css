@@ -1,0 +1,44 @@
+.comment {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.comment__avatar {
+  width: 18.18%;
+}
+
+.comment__img {
+  max-width: 160px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.comment__img-pic {
+  max-width: 100%;
+  display: block;
+}
+
+.comment__info {
+  width: 79.55%;
+}
+
+.comment__date {
+  font-family: roboto_light;
+  color: #656464;
+  font-size: 14px;
+}
+
+.comment__title {
+  margin-bottom: 3px;;
+
+  font-family: roboto_bold;
+  color: #221f1f;
+  font-size: 18px;
+}
+
+.comment__desc {
+  font-size: 18px;
+  color: #221f1f;
+  font-family: roboto_light;
+}

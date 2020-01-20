@@ -1,0 +1,27 @@
+.separator {
+  padding: 45px 0;
+  margin-top: 48px;
+  margin-bottom: 48px;
+
+  background-color: #4bb56b;
+  background-image: url(../../img/decor/pattern.png);
+}
+
+.separator__text {
+  max-width: 659px;
+  margin: 0 auto;
+}
+
+.separator__text p {
+  font-family: roboto_light;
+  color: #fff;
+  font-size: 18px;
+}
+
+.separator__text p a {
+  font-family: roboto_bold;
+  text-decoration: underline;
+  line-height: 1.6;
+  color: #fff;
+  font-size: 18px;
+}
