@@ -1,0 +1,17 @@
+.members {
+  margin-bottom: 40px;
+}
+
+.members__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+
+  margin-bottom: -25px;
+}
+
+.members__item {
+  flex-basis: 271px;
+  margin-bottom: 25px;
+}

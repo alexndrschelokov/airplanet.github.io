@@ -1,0 +1,10 @@
+.partner__link {
+  display: inline-block;
+  filter: grayscale(1);
+
+  transition: filter .3s;
+}
+
+.partner__link:hover {
+  filter: grayscale(0);
+}
