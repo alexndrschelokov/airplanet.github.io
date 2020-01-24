@@ -2,7 +2,7 @@
   display: inline-block;
   filter: grayscale(1);
 
-  transition: filter .3s;
+  transition: filter o.3s;
 }
 
 .partner__link:hover {
